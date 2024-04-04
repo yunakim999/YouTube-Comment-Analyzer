@@ -1,5 +1,5 @@
 # YouTube Comment Analyzer: Analyzing Comments for Genre Classification
-
+## This is a collaborated proejct forked from https://github.com/Omkar-08/YouTube-Comment-Analyzer.git
 
 This repository contains the resources and documentation for a pipeline focused on scraping more than 20000 comments from 4 different genres containing 5 sub-genres each.
 | Genre       | Keywords                                                                                   |
